@@ -1,10 +1,11 @@
 
 
-# Hola, soy Ana! 👋
+# Hola Devs! 👋
 
 
 ## 🚀 Acerca de mi
-Soy una desarrolladora en proceso apasionada por seguir aprendiendo y haciendose de mas habilidades ⭐
+Me llamo Ana Valeria una fanática de los libros y el color verde 💚. Me considero una desarrolladora en proceso apasionada por seguir aprendiendo y haciendose de más habilidades ⭐
+
 
 
 ## Estadísticas
