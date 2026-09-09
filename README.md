@@ -9,6 +9,6 @@
 🛠️ Tecnologías
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,java,javascript,bootstrap,mysql,git,github&perline=4" alt="Skills" /> </p>
 📊 Estadísticas
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=valrey1&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/></p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=valrey1&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=valrey1&layout=compact&langs_count=4&theme=dark"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=valrey1&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/></p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=valrey1&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=valrey1&layout=compact&langs_count=4&theme=dark" alt="GitHub Streak" width="48%"> </p>
 📫 Conecta conmigo
 <p align="left"> <a href="https://www.linkedin.com/in/ana-reynapeña/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a> <a href="mailto:anav.reyna03@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /> </a> </p> <p align="center">✨ Gracias por visitar mi perfil ✨</p>
